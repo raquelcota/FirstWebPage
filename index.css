@@ -1,0 +1,43 @@
+* {
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color:#F5A3B0;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.panda{
+    margin-top: 40px;
+    border-radius: 15px;
+}
+
+.btn{
+    margin-top: 60px;
+}
+
+.btn a {
+    color: black;
+    text-decoration: none;
+    background-color: white;
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px;
+    box-shadow: 8px 5px 20px 5px #000000;
+}
+
+button{
+    border-radius: 10px;
+    background-color: #A9DEF9;
+}
+
+
+.aaboutme{
+    color: black;
+    text-decoration: none;
+}
+
+.aboutme{
+    margin-top: 500px;
+}
+
